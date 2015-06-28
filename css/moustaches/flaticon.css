@@ -1,0 +1,330 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("moustaches/flaticon.eot");
+	src: url("moustaches/flaticon.eot#iefix") format("embedded-opentype"),
+	url("moustaches/flaticon.woff") format("woff"),
+	url("moustaches/flaticon.ttf") format("truetype"),
+	url("moustaches/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "Flaticon" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* [class^="flaticon-"]:before, [class*=" flaticon-"]:before, */
+[class^="flaticon-"]:before, 
+[class*=" flaticon-"]:before {   
+	 font-family: "ilove" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}.flaticon-big82:before {
+	content: "\e000";
+}
+.flaticon-big84:before {
+	content: "\e001";
+}
+.flaticon-big85:before {
+	content: "\e002";
+}
+.flaticon-black184:before {
+	content: "\e003";
+}
+.flaticon-black185:before {
+	content: "\e004";
+}
+.flaticon-bonnet:before {
+	content: "\e005";
+}
+.flaticon-buckled2:before {
+	content: "\e006";
+}
+.flaticon-buckled3:before {
+	content: "\e007";
+}
+.flaticon-buckled4:before {
+	content: "\e008";
+}
+.flaticon-buckled:before {
+	content: "\e009";
+}
+.flaticon-buckle:before {
+	content: "\e00a";
+}
+.flaticon-cat8:before {
+	content: "\e00b";
+}
+.flaticon-charlie:before {
+	content: "\e00c";
+}
+.flaticon-china1:before {
+	content: "\e00d";
+}
+.flaticon-china2:before {
+	content: "\e00e";
+}
+.flaticon-chinese6:before {
+	content: "\e00f";
+}
+.flaticon-chinese7:before {
+	content: "\e010";
+}
+.flaticon-chinese8:before {
+	content: "\e011";
+}
+.flaticon-chinese9:before {
+	content: "\e012";
+}
+.flaticon-circle32:before {
+	content: "\e013";
+}
+.flaticon-circular54:before {
+	content: "\e014";
+}
+.flaticon-cowbot:before {
+	content: "\e015";
+}
+.flaticon-cowboy2:before {
+	content: "\e016";
+}
+.flaticon-cowboy3:before {
+	content: "\e017";
+}
+.flaticon-cowboy4:before {
+	content: "\e018";
+}
+.flaticon-curled1:before {
+	content: "\e019";
+}
+.flaticon-curled2:before {
+	content: "\e01a";
+}
+.flaticon-curled3:before {
+	content: "\e01b";
+}
+.flaticon-curled4:before {
+	content: "\e01c";
+}
+.flaticon-curled5:before {
+	content: "\e01d";
+}
+.flaticon-curling:before {
+	content: "\e01e";
+}
+.flaticon-curly1:before {
+	content: "\e01f";
+}
+.flaticon-curly:before {
+	content: "\e020";
+}
+.flaticon-curve21:before {
+	content: "\e021";
+}
+.flaticon-curve22:before {
+	content: "\e022";
+}
+.flaticon-curved7:before {
+	content: "\e023";
+}
+.flaticon-curvy:before {
+	content: "\e024";
+}
+.flaticon-cut16:before {
+	content: "\e025";
+}
+.flaticon-double26:before {
+	content: "\e026";
+}
+.flaticon-facial1:before {
+	content: "\e027";
+}
+.flaticon-facial2:before {
+	content: "\e028";
+}
+.flaticon-facial:before {
+	content: "\e029";
+}
+.flaticon-fedora1:before {
+	content: "\e02a";
+}
+.flaticon-fedora2:before {
+	content: "\e02b";
+}
+.flaticon-fedora3:before {
+	content: "\e02c";
+}
+.flaticon-fedora4:before {
+	content: "\e02d";
+}
+.flaticon-fluffy:before {
+	content: "\e02e";
+}
+.flaticon-hat4:before {
+	content: "\e02f";
+}
+.flaticon-irregular6:before {
+	content: "\e030";
+}
+.flaticon-leaf11:before {
+	content: "\e031";
+}
+.flaticon-long2:before {
+	content: "\e032";
+}
+.flaticon-magic6:before {
+	content: "\e033";
+}
+.flaticon-magician2:before {
+	content: "\e034";
+}
+.flaticon-magicians:before {
+	content: "\e035";
+}
+.flaticon-male81:before {
+	content: "\e036";
+}
+.flaticon-male83:before {
+	content: "\e037";
+}
+.flaticon-male86:before {
+	content: "\e038";
+}
+.flaticon-mexican4:before {
+	content: "\e039";
+}
+.flaticon-moustache1:before {
+	content: "\e03a";
+}
+.flaticon-moustache2:before {
+	content: "\e03b";
+}
+.flaticon-moustache3:before {
+	content: "\e03c";
+}
+.flaticon-moustache4:before {
+	content: "\e03d";
+}
+.flaticon-moustache5:before {
+	content: "\e03e";
+}
+.flaticon-moustache6:before {
+	content: "\e03f";
+}
+.flaticon-moustache7:before {
+	content: "\e040";
+}
+.flaticon-moustache8:before {
+	content: "\e041";
+}
+.flaticon-mustache2:before {
+	content: "\e042";
+}
+.flaticon-mustache3:before {
+	content: "\e043";
+}
+.flaticon-old27:before {
+	content: "\e044";
+}
+.flaticon-oval3:before {
+	content: "\e045";
+}
+.flaticon-pixel1:before {
+	content: "\e046";
+}
+.flaticon-pixelated:before {
+	content: "\e047";
+}
+.flaticon-pointed3:before {
+	content: "\e048";
+}
+.flaticon-round34:before {
+	content: "\e049";
+}
+.flaticon-round35:before {
+	content: "\e04a";
+}
+.flaticon-round36:before {
+	content: "\e04b";
+}
+.flaticon-round37:before {
+	content: "\e04c";
+}
+.flaticon-round38:before {
+	content: "\e04d";
+}
+.flaticon-round39:before {
+	content: "\e04e";
+}
+.flaticon-sharp2:before {
+	content: "\e04f";
+}
+.flaticon-short1:before {
+	content: "\e050";
+}
+.flaticon-small142:before {
+	content: "\e051";
+}
+.flaticon-straight10:before {
+	content: "\e052";
+}
+.flaticon-studded1:before {
+	content: "\e053";
+}
+.flaticon-tall10:before {
+	content: "\e054";
+}
+.flaticon-tall3:before {
+	content: "\e055";
+}
+.flaticon-tall5:before {
+	content: "\e056";
+}
+.flaticon-tall7:before {
+	content: "\e057";
+}
+.flaticon-tall9:before {
+	content: "\e058";
+}
+.flaticon-thin19:before {
+	content: "\e059";
+}
+.flaticon-thin20:before {
+	content: "\e05a";
+}
+.flaticon-thin21:before {
+	content: "\e05b";
+}
+.flaticon-thin22:before {
+	content: "\e05c";
+}
+.flaticon-thin23:before {
+	content: "\e05d";
+}
+.flaticon-triangular16:before {
+	content: "\e05e";
+}
+.flaticon-zigzag1:before {
+	content: "\e05f";
+}
+.flaticon-zigzag2:before {
+	content: "\e060";
+}
+.flaticon-zigzag:before {
+	content: "\e061";
+}
