@@ -1,16 +1,18 @@
+@charset "UTF-8";
+
 @font-face {
-	font-family: "Flaticon";
-	src: url("moustaches/flaticon.eot");
-	src: url("moustaches/flaticon.eot#iefix") format("embedded-opentype"),
-	url("moustaches/flaticon.woff") format("woff"),
-	url("moustaches/flaticon.ttf") format("truetype"),
-	url("moustaches/flaticon.svg") format("svg");
+	font-family: "flaticon";
+	src: url("moustaches/fonts/flaticon.eot");
+	src: url("moustaches/fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+	url("moustaches/fonts/flaticon.woff") format("woff"),
+	url("moustaches/fonts/flaticon.ttf") format("truetype"),
+	url("moustaches/fonts/flaticon.svg") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
 
-[data-icon]:before {
-  font-family: "Flaticon" !important;
+/*[data-icon]:before {
+  font-family: "flaticon" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: normal !important;
@@ -20,12 +22,14 @@
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+}*/
+
+
 
 /* [class^="flaticon-"]:before, [class*=" flaticon-"]:before, */
 [class^="flaticon-"]:before, 
 [class*=" flaticon-"]:before {   
-	 font-family: "ilove" !important;
+  font-family: "flaticon" !important;
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
@@ -34,7 +38,9 @@
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}.flaticon-big82:before {
+}
+
+.flaticon-big82:before {
 	content: "\e000";
 }
 .flaticon-big84:before {
