@@ -15,15 +15,21 @@
 	frameColor="CC0099"
 
 >
-  <image imageURL="images/IMG-20150621-WA0074.jpg"
-	thumbURL="thumbs/IMG-20150621-WA0074.jpg"
-	linkURL="images/IMG-20150621-WA0074.jpg"
+  <image imageURL="images/IMG-20150621-WA0087.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0087.jpg"
+	linkURL="images/IMG-20150621-WA0087.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/IMG-20150621-WA0086.jpg"
-	thumbURL="thumbs/IMG-20150621-WA0086.jpg"
-	linkURL="images/IMG-20150621-WA0086.jpg"
+  <image imageURL="images/IMG-20150621-WA0051.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0051.jpg"
+	linkURL="images/IMG-20150621-WA0051.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0074.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0074.jpg"
+	linkURL="images/IMG-20150621-WA0074.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[]]></caption>
   </image>
@@ -36,12 +42,6 @@
   <image imageURL="images/IMG-20150621-WA0066.jpg"
 	thumbURL="thumbs/IMG-20150621-WA0066.jpg"
 	linkURL="images/IMG-20150621-WA0066.jpg"
-	linkTarget="_blank">
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/IMG-20150621-WA0067.jpg"
-	thumbURL="thumbs/IMG-20150621-WA0067.jpg"
-	linkURL="images/IMG-20150621-WA0067.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[]]></caption>
   </image>
@@ -87,21 +87,9 @@
 	linkTarget="_blank">
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/IMG-20150621-WA0079.jpg"
-	thumbURL="thumbs/IMG-20150621-WA0079.jpg"
-	linkURL="images/IMG-20150621-WA0079.jpg"
-	linkTarget="_blank">
-    <caption><![CDATA[]]></caption>
-  </image>
   <image imageURL="images/IMG-20150621-WA0061.jpg"
 	thumbURL="thumbs/IMG-20150621-WA0061.jpg"
 	linkURL="images/IMG-20150621-WA0061.jpg"
-	linkTarget="_blank">
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/IMG-20150621-WA0087.jpg"
-	thumbURL="thumbs/IMG-20150621-WA0087.jpg"
-	linkURL="images/IMG-20150621-WA0087.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[]]></caption>
   </image>
@@ -162,6 +150,24 @@
   <image imageURL="images/IMG-20150621-WA0113.jpg"
 	thumbURL="thumbs/IMG-20150621-WA0113.jpg"
 	linkURL="images/IMG-20150621-WA0113.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/946564_579975758700638_851150212_n.jpg"
+	thumbURL="thumbs/946564_579975758700638_851150212_n.jpg"
+	linkURL="images/946564_579975758700638_851150212_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10174802_857368374282559_6438981077191817847_n.jpg"
+	thumbURL="thumbs/10174802_857368374282559_6438981077191817847_n.jpg"
+	linkURL="images/10174802_857368374282559_6438981077191817847_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10294286_555657331237071_4881272316015284253_n.jpg"
+	thumbURL="thumbs/10294286_555657331237071_4881272316015284253_n.jpg"
+	linkURL="images/10294286_555657331237071_4881272316015284253_n.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[]]></caption>
   </image>
