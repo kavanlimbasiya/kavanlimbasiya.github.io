@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="NONE"
+	galleryHeight="100%"
+	frameWidth="0"
+	textColor="CC0099"
+	backgroundTransparent="true"
+	backgroundColor="CC0099"
+	indexPageName="index1.html"
+
+>
+  <image imageURL="images/IMG-20150621-WA0074.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0074.jpg"
+	linkURL="images/IMG-20150621-WA0074.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0086.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0086.jpg"
+	linkURL="images/IMG-20150621-WA0086.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0065.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0065.jpg"
+	linkURL="images/IMG-20150621-WA0065.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0066.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0066.jpg"
+	linkURL="images/IMG-20150621-WA0066.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0067.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0067.jpg"
+	linkURL="images/IMG-20150621-WA0067.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0068.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0068.jpg"
+	linkURL="images/IMG-20150621-WA0068.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0069.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0069.jpg"
+	linkURL="images/IMG-20150621-WA0069.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0071.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0071.jpg"
+	linkURL="images/IMG-20150621-WA0071.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0072.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0072.jpg"
+	linkURL="images/IMG-20150621-WA0072.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0075.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0075.jpg"
+	linkURL="images/IMG-20150621-WA0075.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0077.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0077.jpg"
+	linkURL="images/IMG-20150621-WA0077.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0078.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0078.jpg"
+	linkURL="images/IMG-20150621-WA0078.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0079.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0079.jpg"
+	linkURL="images/IMG-20150621-WA0079.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0061.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0061.jpg"
+	linkURL="images/IMG-20150621-WA0061.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0087.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0087.jpg"
+	linkURL="images/IMG-20150621-WA0087.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0080.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0080.jpg"
+	linkURL="images/IMG-20150621-WA0080.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0091.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0091.jpg"
+	linkURL="images/IMG-20150621-WA0091.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0101.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0101.jpg"
+	linkURL="images/IMG-20150621-WA0101.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0104.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0104.jpg"
+	linkURL="images/IMG-20150621-WA0104.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0105.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0105.jpg"
+	linkURL="images/IMG-20150621-WA0105.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0107.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0107.jpg"
+	linkURL="images/IMG-20150621-WA0107.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0108.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0108.jpg"
+	linkURL="images/IMG-20150621-WA0108.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0109.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0109.jpg"
+	linkURL="images/IMG-20150621-WA0109.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0110.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0110.jpg"
+	linkURL="images/IMG-20150621-WA0110.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20150621-WA0113.jpg"
+	thumbURL="thumbs/IMG-20150621-WA0113.jpg"
+	linkURL="images/IMG-20150621-WA0113.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
