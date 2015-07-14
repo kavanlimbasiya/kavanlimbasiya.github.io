@@ -842,11 +842,14 @@ color: #f04c74;
 /* 10.1 Favorites */
 
 .favlist{
-	text-align:center;	
+	text-align: center;
+
 }
 
 .favlist img{
-	max-width:320px;	
+	max-width:320px;
+	text-align:center;
+
 }
 
 .favlist-title{
@@ -855,13 +858,13 @@ color: #f04c74;
 }
 
 .favlist-name{
-	width:150px;
-	background:#ef6a8a;
-	color:#FFF;
-	padding:10px;
-	display:inline-block;
-	font-size:22px;
-	text-transform:uppercase;	
+	width: 158px;
+	background: #ef6a8a;
+	color: #FFF;
+	padding: 8px;
+	display: inline-block;
+	font-size: 22px;
+	text-transform: uppercase;
 }
 
 .timeline-left{
@@ -1879,7 +1882,8 @@ video#bgvideo {
 	
 	.favlist img {
 		max-width: 280px;
-	}
+		align-content:center;
+		}
 	
 	.timeline-left {
 		float: none;
